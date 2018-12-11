@@ -1,0 +1,42 @@
+{
+	"sourcePath": "source/",
+	"buildPath": "build/",
+	"jsPath": "js/",
+	"assetsPath": "res/",
+	"lessPath": "less/",
+	"cssPath": "css/",
+	"imagesPath": "images/",
+	"lib":[
+		"tweenjs.min.js",
+		"phaser.js"
+	],
+	"jsFiles": [
+		"Namespace.js",
+		"helper/Utils.js",
+		"core/Parser.js",
+		"core/ParserModel.js",
+		"core/Constants.js",
+		"server/Server.js",
+		"components/Sound.js",
+		"components/BitMapCoinText.js",
+		"components/LabelWinContainer.js",
+		"components/Button.js",
+		"components/ButtonPanel.js",
+		"components/Meter.js",
+		"components/PlayerMessage.js",
+		"components/Ui.js",
+		"components/GameSymbol.js",
+		"components/Reel.js",
+		"components/Reels.js",
+		"components/Lines.js",
+		"components/Board.js",
+		"components/InfoPages.js",
+		"SoundController.js",
+		"Main.js",
+		"Preloader.js",
+		"Global.js",
+		"app.js",
+		"start.js"
+
+	]
+}
